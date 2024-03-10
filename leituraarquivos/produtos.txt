@@ -1,0 +1,5 @@
+Produto * Descrição * Preço * Tipo * Informação extra
+Café * Café descafeinado * 2.00 * Alimento * 10/12/2015
+Bolacha * Integral * 5.53 * Alimento * 2/4/2010
+Camiseta * Manga curta * 17.90 * Vestuário * 10
+Fogão * 4 bocas * 890.00 * Eletrodomestico * 125.00
